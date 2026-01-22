@@ -21,6 +21,14 @@ A modern, Fluent Design-based GUI for [Scrcpy](https://github.com/Genymobile/scr
 *   [Scrcpy](https://github.com/Genymobile/scrcpy) (Must be installed and added to your system PATH)
 *   ADB (Usually comes with Scrcpy)
 
+## Download
+
+You can download the latest standalone executable from the [Releases](https://github.com/gaoxing64/Fluent-scrcpy/releases) page.
+
+1.  Download `FluentScrcpy-v1.0.zip`.
+2.  Extract the zip file.
+3.  Run `FluentScrcpy.exe`.
+
 ## Installation
 
 1.  Clone the repository:
@@ -88,6 +96,14 @@ MIT License
 *   Python 3.8+
 *   [Scrcpy](https://github.com/Genymobile/scrcpy) (必须已安装并添加到系统 PATH 环境变量中)
 *   ADB (通常随 Scrcpy 一起附带)
+
+## 下载
+
+您可以从 [Releases](https://github.com/gaoxing64/Fluent-scrcpy/releases) 页面下载最新的独立可执行文件。
+
+1.  下载 `FluentScrcpy-v1.0.zip`。
+2.  解压压缩包。
+3.  运行 `FluentScrcpy.exe`。
 
 ## 安装步骤
 
