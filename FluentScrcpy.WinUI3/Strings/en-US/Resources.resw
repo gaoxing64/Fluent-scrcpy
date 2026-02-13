@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Fluent Scrcpy</value>
+  </data>
+  <data name="HomePageTitle.Text" xml:space="preserve">
+    <value>Connected Devices</value>
+  </data>
+  <data name="ConfigPageTitle.Text" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="SettingsPageTitle.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="HomeNavItem.Content" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="ConfigNavItem.Content" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="SettingsNavItem.Content" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="ConnectButton.Content" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="StartMirroringButton.Content" xml:space="preserve">
+    <value>Start Mirroring</value>
+  </data>
+  <data name="WirelessButton.Content" xml:space="preserve">
+    <value>Wireless</value>
+  </data>
+  <data name="IpTextBox.PlaceholderText" xml:space="preserve">
+    <value>Device IP:Port (e.g. 192.168.1.100:5555)</value>
+  </data>
+  <data name="AppearanceSettings.Text" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
+  <data name="ThemeSetting.Header" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="ThemeSystem.Content" xml:space="preserve">
+    <value>System Default</value>
+  </data>
+  <data name="ThemeLight.Content" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="ThemeDark.Content" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="AboutSection.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="AppDescription.Text" xml:space="preserve">
+    <value>A modern GUI for scrcpy</value>
+  </data>
+  <data name="VersionLabel.Text" xml:space="preserve">
+    <value>Version 1.0.0</value>
+  </data>
+  <data name="LanguageSetting.Header" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="VideoSettings.Text" xml:space="preserve">
+    <value>Video Settings</value>
+  </data>
+  <data name="BitrateLabel.Header" xml:space="preserve">
+    <value>Bitrate (Mbps)</value>
+  </data>
+  <data name="ResolutionLabel.Header" xml:space="preserve">
+    <value>Max Resolution</value>
+  </data>
+  <data name="ResolutionNative.Content" xml:space="preserve">
+    <value>Native</value>
+  </data>
+</root>

@@ -1,0 +1,20 @@
+// Windows API functions for window control
+SetWindowPos
+GetWindowLong
+SetWindowLong
+GetForegroundWindow
+FindWindow
+ShowWindow
+SetWindowText
+GetWindowText
+GetWindowRect
+SetWindowRgn
+GetSystemMenu
+DeleteMenu
+EnableMenuItem
+SetLayeredWindowAttributes
+
+// Window icon APIs
+LoadImage
+SendMessage
+WM_SETICON
